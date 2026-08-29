@@ -1,0 +1,13 @@
+body{
+    font-family:Arial;
+}
+
+.icones-containner{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
