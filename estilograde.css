@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: Roboto, Arial, sans-sreif;
+    
+}
+
+.grade-container{
+    position: relative;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.titulo-grade{
+    display: flex;
+    color:#be6c3d;
+    font-size: 18px;
+    width: 100%;
+    justify-content: center;
+    background-color: #000000;
+    margin-top: 100px;
+    height: 90px;
+}
+h2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-size: 34px;
+}
+
+table, tr, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+      width: 100%;
+    table-layout: fixed;
+}
+.dias{
+    background-color: #000000;
+    color: white;
+}
